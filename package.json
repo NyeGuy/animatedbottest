@@ -1,0 +1,28 @@
+{
+  "name": "animatedbottest",
+  "version": "1.0.0",
+  "description": "test bot connected to unity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NyeGuy/animatedbottest.git"
+  },
+  "keywords": [
+    "node",
+    "unity",
+    "bot"
+  ],
+  "author": "nye warburton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NyeGuy/animatedbottest/issues"
+  },
+  "homepage": "https://github.com/NyeGuy/animatedbottest#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  }
+}
